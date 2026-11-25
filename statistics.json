@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-25T15:14:05.941Z",
-  "sources": 3,
+  "name": "BD-KB-IT",
+  "version": "1.0.0",
+  "updated": "2026-11-25 15:22:58 UTC",
   "totalDownloaded": 331,
   "uniqueChannels": 318,
-  "checkedChannels": 318,
-  "workingChannels": 217,
-  "offlineChannels": 101,
+  "workingChannels": 215,
+  "offlineChannels": 103,
   "importantWorkingChannels": 6,
   "output": "bestiptvlinks.m3u"
 }
