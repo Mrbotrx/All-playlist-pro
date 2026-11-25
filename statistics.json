@@ -1,8 +1,11 @@
 {
-  "date": "2026-11-25T15:06:17.847Z",
+  "generatedAt": "2026-11-25T15:14:05.941Z",
+  "sources": 3,
   "totalDownloaded": 331,
   "uniqueChannels": 318,
-  "workingChannels": 218,
-  "importantChannels": 6,
-  "offlineChannels": 100
+  "checkedChannels": 318,
+  "workingChannels": 217,
+  "offlineChannels": 101,
+  "importantWorkingChannels": 6,
+  "output": "bestiptvlinks.m3u"
 }
